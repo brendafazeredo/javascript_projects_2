@@ -1,1 +1,1 @@
-# javascript_projects_2
+<h1>JavaScript Projects 2 - API REST & Other Topics</h1>
